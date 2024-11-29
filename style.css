@@ -1,0 +1,15 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+.custom-select {
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem 1.75rem .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #5f676e;
+    border: 1px solid #ced4da;
+    border-radius: 0.4rem;
+}
+.customCards {
+  height: 50px;
+}
